@@ -1,0 +1,14 @@
+{
+    "prefix": ".",
+    "token": "OTc1NDAxMTY1MTQxNDcxMjcy.GtM65n.60Rw5WS7Im2xNgNFQPn0jsI7Nz9ma7xHDslExc",
+    "CHANNEL_WELCOME": "970024662862020629",
+    "ROLES_WELCOME": ["966260323956965397"],
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+    }
+}
